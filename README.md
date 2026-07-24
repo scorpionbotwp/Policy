@@ -6,4 +6,4 @@ Raccolta Dati: L'applicazione non raccoglie, memorizza, traccia o condivide alcu
 
 Uso dei Dati: Gli unici dati elaborati sono i token di autenticazione API necessari per inviare immagini e descrizioni al profilo Pinterest dell'utente proprietario.
 
-Contatti: Per qualsiasi domanda, contattare me
+Contatti: Per qualsiasi domanda, contattarmi
